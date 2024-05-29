@@ -1,0 +1,5 @@
+__pycache__/
+hasteapi/__pycache__/
+*.pyc
+.DS_Store
+hastenv
